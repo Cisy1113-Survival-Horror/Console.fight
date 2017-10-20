@@ -60,6 +60,12 @@ namespace Hunter_X_Hunter_part_2
                 {
                     Console.WriteLine($"[{fighter1.Name}] has the firstmove");
                     PlayerTurn(fighter1, fighter2);
+
+                    //This prevents a fighter from dealing additional damage after they should have been ko'd
+                    if(fighter2.Health <= 0 || fighter1.Health <= 0)
+                    {
+                        break;
+                    }
                     Console.WriteLine($"[{fighter2.Name}] now moves");
                     CompTurn(fighter1, fighter2);
                 }
@@ -67,6 +73,12 @@ namespace Hunter_X_Hunter_part_2
                 {
                     Console.WriteLine($"[{fighter2.Name}] has the firstmove");
                     CompTurn(fighter1, fighter2);
+
+                    //This prevents a fighter from dealing additional damage after they should have been ko'd
+                    if (fighter2.Health <= 0 || fighter1.Health <= 0)
+                    {
+                        break;
+                    }
                     Console.WriteLine($"[{fighter1.Name}] now has the initiative");
                     PlayerTurn(fighter1, fighter2);
                 }
