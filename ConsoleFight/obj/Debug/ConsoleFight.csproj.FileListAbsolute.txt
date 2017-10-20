@@ -1,0 +1,6 @@
+C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\bin\Debug\ConsoleFight.exe.config
+C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\bin\Debug\ConsoleFight.exe
+C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\bin\Debug\ConsoleFight.pdb
+C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.csprojResolveAssemblyReference.cache
+C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.exe
+C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.pdb
