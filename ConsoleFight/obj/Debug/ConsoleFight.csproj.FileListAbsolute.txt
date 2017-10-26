@@ -4,3 +4,10 @@ C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\bin\Debug\ConsoleFi
 C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.csprojResolveAssemblyReference.cache
 C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.exe
 C:\Users\dgg\Desktop\ConsoleFight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.pdb
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\bin\Debug\ConsoleFight.exe.config
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\bin\Debug\ConsoleFight.exe
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\bin\Debug\ConsoleFight.pdb
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.csprojResolveAssemblyReference.cache
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.exe
+C:\Users\littl\Desktop\Consolefight\Console.fight\ConsoleFight\obj\Debug\ConsoleFight.pdb
