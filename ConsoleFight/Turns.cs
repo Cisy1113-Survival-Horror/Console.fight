@@ -64,3 +64,24 @@ namespace Hunter_X_Hunter_part_2
         }
     }
 }
+// Shania
+// method to calculate turn order
+static bool CalcTurn(Fighter f1, Fighter f2);
+//calculate the turn order which is a random number from 1-10 + character's speed stat
+int playerSpeed;
+int compSpeed;
+playerSpeed = rnd.Next(1, 11) + f1.Speed;
+            compSpeed = rnd.Next(1, 11) + f2.Speed;
+            if (playerSpeed > compSpeed)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+
+    }
+}
